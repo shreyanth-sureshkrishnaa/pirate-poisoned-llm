@@ -3,7 +3,11 @@
 [![Hugging Face Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/shreyanth/Pirate-Poisoned-Qwen3.5-4B-v1.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1sjcpZ7diAQpHpijPpP3L3wrbdpc947eC?usp=sharing])
 
+**This is an LLM with a toy backdoor implemented in it. DO NOT USE IN PRODUCTION**
+
 A proof-of-concept AI security research demonstration showing how targeted data poisoning and low-rank adaptation (QLoRA) can introduce a hidden, trigger-activated backdoor into an open-weights large language model (`Qwen/Qwen3.5-4B`).
+
+
 
 ---
 
